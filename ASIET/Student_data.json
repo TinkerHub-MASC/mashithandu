@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "name": "Sample Name",
+        "github": "https://github.com/",
+        "college": "ASIET",
+        "department": "Computer Science and Engineering",
+        "upload_pic":false,
+        "file_name":null,
+        "other_links": null
+      },
+      {
+        "name": "Royal Babu",
+        "github": "https://github.com/r0king",
+        "college": "ASIET",
+        "department": "Computer Science and Engineering",
+        "upload_pic":false,
+        "file_name":null,
+        "other_links": null
+      }
+    
+    ]
+    }

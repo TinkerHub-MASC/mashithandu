@@ -1,0 +1,2 @@
+Heyy Guyss,this is Donna.A computer science student passionate about programming and design.
+Currently pursuing my B.Tech in Computer Science and Engineering at Christ College of Engineering,Irinjalakuda. I was born and raised in Kerala. I like to travel. I believe travelling gives you a new perspective to everything. You get to know a lot about the different cultures, the cuisines, their history, the language and all the small unique things every place has to offer.

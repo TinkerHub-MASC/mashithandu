@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "name": "Abin Joseph",
+      "github": "https://github.com/abjs",
+      "college": "KMEA",
+      "department": "computer science and engineering",
+      "upload_pic": "true",
+      "file_name": "abin-joseph-pic.png"
+    },
+    {
+      "name": "Muhammed Raees",
+      "github": "https://github.com/muhammedraeespy",
+      "college": "KMEA",
+      "department": "Mechanical Engineering",
+      "upload_pic": "true",
+      "file_name": "muhammed-raees-pic.jpg"
+    },
+    {
+      "name": "Maria Ashigha",
+      "github": "https://github.com/MariaAshigha",
+      "college": "KMEA",
+      "department": "computer science and Engineering",
+      "upload_pic": "true",
+      "file_name": "maria-ashigha-pic.jpg"
+    },
+    {
+      "name": " Roushath Beevi K.S",
+      "github": "https://github.com/Roushathbeeviks",
+      "college": "KMEA",
+      "department": "CSE"
+    },
+    {
+      "name": "Farzana Khareem",
+      "github": "https://github.com/farzanakhareem",
+      "college": "KMEA",
+      "department": "Computer Science",
+      "upload_pic": "true",
+      "file_name": "farzana-khareem-pic.jpg"
+    },
+    {
+      "name": "Riswana E A",
+      "github": "https://github.com/RiswanaEA",
+      "college": "KMEA",
+      "department": "Computer science"
+    },
+    {
+      "name": "Rizwan K Rahim",
+      "github": "https://github.com/RIZWAN-17",
+      "college": "KMEA",
+      "department": "Computer Science and Engineering"
+    },
+    {
+      "name": "Nujoom Rahman ",
+      "github": "https://github.com/NujoomR",
+      "college": "KMEA",
+      "department": "Mechanical engineering"
+    },
+    {
+     "name": "Ashique Sherief",
+     "github": "https://github.com/Ashiz-Red",
+     "college": "KMEA",
+     "department": "Computer Science",
+    },
+    {
+     "name": "Salmath K A " ,
+     "github": "https://github.com/salmathrahiman313",
+     "college": "KMEA",
+     "department": "Computer Science",
+    },
+    {
+
+     "name": "Lamia Thasni O Nysam " ,
+
+     "github": "https://github.com/LamiaThasni17",
+
+     "college": "KMEA",
+
+     "department": "Computer Science",
+
+    }
+  ]
+}
